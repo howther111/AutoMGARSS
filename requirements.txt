@@ -1,0 +1,3 @@
+###### Requirements without Version Specifiers ######`
+opencv-contrib-python==3.4.5.20
+gspread
